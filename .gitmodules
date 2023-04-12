@@ -1,0 +1,3 @@
+[submodule "selleros"]
+	path = selleros
+	url = https://github.com/seller-square/selleros.git
